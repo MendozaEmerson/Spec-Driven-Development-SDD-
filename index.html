@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weather Forecast App</title>
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Pronóstico del Clima</h1>
+
+    <form id="weather-form" novalidate>
+      <label for="city-input">Nombre de ciudad</label>
+      <input
+        type="text"
+        id="city-input"
+        name="city"
+        placeholder="Ej: Lima, Berlin, Tokyo"
+        autocomplete="off"
+        aria-required="true"
+      />
+      <button type="submit" id="submit-btn">Consultar</button>
+    </form>
+
+    <!-- Loading spinner (hidden by default) -->
+    <div id="spinner" hidden aria-live="polite" aria-label="Cargando...">
+      <span class="spinner-icon"></span>
+      <span>Cargando...</span>
+    </div>
+
+    <!-- Results panel (hidden by default) -->
+    <section id="results" hidden aria-label="Resultados del pronóstico">
+    </section>
+
+    <!-- Error panel (hidden by default) -->
+    <div id="error" hidden aria-live="assertive" role="alert">
+    </div>
+  </main>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

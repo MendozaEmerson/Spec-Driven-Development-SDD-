@@ -1,0 +1,697 @@
+{
+  "pbtResults": {
+    "2.3 Escribir prueba de propiedad para validación — Property 1": {
+      "status": "passed",
+      "lastRunTimestamp": 1793025234173
+    },
+    "2.6 Escribir prueba de propiedad para validación — Property 4": {
+      "status": "passed",
+      "lastRunTimestamp": 1793025234328
+    },
+    "2.4 Escribir prueba de propiedad para validación — Property 2": {
+      "status": "passed",
+      "lastRunTimestamp": 1793025238287
+    },
+    "2.5 Escribir prueba de propiedad para validación — Property 3": {
+      "status": "passed",
+      "lastRunTimestamp": 1793025439563
+    },
+    "4.4 Escribir prueba de propiedad para geocodificación — Property 6": {
+      "status": "passed",
+      "lastRunTimestamp": 1793027959341
+    },
+    "4.3 Escribir prueba de propiedad para geocodificación — Property 5": {
+      "status": "passed",
+      "lastRunTimestamp": 1793027965023
+    },
+    "5.4 Escribir prueba de propiedad para servicio meteorológico — Property 8": {
+      "status": "passed",
+      "lastRunTimestamp": 1793028047658
+    },
+    "5.5 Escribir prueba de propiedad para servicio meteorológico — Property 9": {
+      "status": "passed",
+      "lastRunTimestamp": 1793028059362
+    },
+    "5.3 Escribir prueba de propiedad para servicio meteorológico — Property 7": {
+      "status": "passed",
+      "lastRunTimestamp": 1793028059657
+    },
+    "7.5 Escribir prueba de propiedad para UI — Property 12": {
+      "status": "passed",
+      "lastRunTimestamp": 1793029062282
+    },
+    "7.6 Escribir prueba de propiedad para UI — Property 13": {
+      "status": "passed",
+      "lastRunTimestamp": 1793029830674
+    },
+    "7.4 Escribir prueba de propiedad para UI — Property 11": {
+      "status": "passed",
+      "lastRunTimestamp": 1793029832167
+    },
+    "7.3 Escribir prueba de propiedad para UI — Property 10": {
+      "status": "passed",
+      "lastRunTimestamp": 1793029838723
+    },
+    "8.4 Verificar Property 15: todos los mensajes de error tienen ≤ 200 caracteres": {
+      "status": "passed",
+      "lastRunTimestamp": 1793031108212
+    },
+    "8.3 Escribir prueba de propiedad para el controlador — Property 14": {
+      "status": "passed",
+      "lastRunTimestamp": 1793046934055
+    }
+  },
+  "executionHistory": {
+    "1. Scaffolding del proyecto: estructura de archivos y configuración del entorno de testing": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024576771
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024588902
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024752694
+      }
+    ],
+    "2.1 Implementar `validation.js` con la función `validateCityName(raw)`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024578750
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024755503
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024981360
+      }
+    ],
+    "2.2 Escribir pruebas unitarias para `validateCityName`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024580811
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024984409
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025449507
+      }
+    ],
+    "2.3 Escribir prueba de propiedad para validación — Property 1": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024581003
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024987157
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025452343
+      }
+    ],
+    "2.4 Escribir prueba de propiedad para validación — Property 2": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024581830
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024989741
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025454987
+      }
+    ],
+    "2.5 Escribir prueba de propiedad para validación — Property 3": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024581977
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024992224
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025457636
+      }
+    ],
+    "2.6 Escribir prueba de propiedad para validación — Property 4": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024582127
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024995275
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025460480
+      }
+    ],
+    "3. Checkpoint — Verificar módulo de validación": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024582260
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025463243
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025953939
+      }
+    ],
+    "4.1 Implementar `geocodingService.js` con la función `geocodeCity(cityName)`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024582447
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025957199
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793026191089
+      }
+    ],
+    "4.2 Escribir pruebas unitarias para `geocodingService`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024582716
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793026194082
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027974613
+      }
+    ],
+    "4.3 Escribir prueba de propiedad para geocodificación — Property 5": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024582940
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793026196745
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027977927
+      }
+    ],
+    "4.4 Escribir prueba de propiedad para geocodificación — Property 6": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583104
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793026199350
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027980676
+      }
+    ],
+    "5.1 Implementar `weatherService.js` con la función `fetchWeather(lat, lon)`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583213
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793026202133
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027983788
+      }
+    ],
+    "5.2 Escribir pruebas unitarias para `weatherService`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583347
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027986812
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028070256
+      }
+    ],
+    "5.3 Escribir prueba de propiedad para servicio meteorológico — Property 7": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583499
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027989643
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028073606
+      }
+    ],
+    "5.4 Escribir prueba de propiedad para servicio meteorológico — Property 8": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583657
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027994017
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028076435
+      }
+    ],
+    "5.5 Escribir prueba de propiedad para servicio meteorológico — Property 9": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583778
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027996817
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028079527
+      }
+    ],
+    "6. Checkpoint — Verificar servicios de API": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583893
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028082813
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028480696
+      }
+    ],
+    "7.1 Implementar `ui.js` con las funciones del componente UI": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024583998
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028483789
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028649731
+      }
+    ],
+    "7.2 Escribir pruebas unitarias para `ui.js`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584088
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028656394
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029848452
+      }
+    ],
+    "7.3 Escribir prueba de propiedad para UI — Property 10": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584201
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028659414
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029851807
+      }
+    ],
+    "7.4 Escribir prueba de propiedad para UI — Property 11": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584409
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028662442
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029855101
+      }
+    ],
+    "7.5 Escribir prueba de propiedad para UI — Property 12": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584554
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028665320
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029858041
+      }
+    ],
+    "7.6 Escribir prueba de propiedad para UI — Property 13": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584703
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028668261
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029861309
+      }
+    ],
+    "8.1 Implementar `app.js` con la función `handleSubmit(event)` y registrar el listener del formulario": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584813
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029865014
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793030268779
+      }
+    ],
+    "8.2 Escribir pruebas unitarias para `app.js`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024584918
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793030272232
+      },
+      {
+        "executionId": "befed407-7db7-458d-85b4-0cee1a068a79",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793046066518
+      },
+      {
+        "executionId": "29df0a63-5e84-4c51-a3bb-b8b527d036a8",
+        "chatSessionId": "sess_21bf2e26-946e-4a80-90f6-bf0a9b950204",
+        "timestamp": 1793046559755
+      },
+      {
+        "executionId": "29df0a63-5e84-4c51-a3bb-b8b527d036a8",
+        "chatSessionId": "sess_21bf2e26-946e-4a80-90f6-bf0a9b950204",
+        "timestamp": 1793046638174
+      }
+    ],
+    "8.3 Escribir prueba de propiedad para el controlador — Property 14": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585018
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793030275380
+      },
+      {
+        "executionId": "befed407-7db7-458d-85b4-0cee1a068a79",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793046069619
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046829454
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046834474
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046944421
+      }
+    ],
+    "8.4 Verificar Property 15: todos los mensajes de error tienen ≤ 200 caracteres": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585119
+      },
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793030278604
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793031031443
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793031036588
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793034196869
+      }
+    ],
+    "9. Checkpoint — Verificar integración del controlador y cobertura completa": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585226
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793034206061
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793045927639
+      }
+    ],
+    "10.1 Crear `src/styles.css` con estilos base": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585340
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793045930293
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793046032019
+      }
+    ],
+    "10.2 Vincular `styles.css` en `index.html` y verificar que los selectores CSS corresponden a los IDs/clases usados en `ui.js`": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585463
+      },
+      {
+        "executionId": "ff9075e3-b941-46d9-925c-3e776b64e50f",
+        "chatSessionId": "sess_137c8566-114c-4bcd-936e-9d35beac2721",
+        "timestamp": 1793046034757
+      },
+      {
+        "executionId": "ee36feec-5949-4140-953b-1a1191615f6d",
+        "chatSessionId": "sess_e9a50c8d-0e98-48af-9d06-9443e88622b6",
+        "timestamp": 1793046168103
+      },
+      {
+        "executionId": "ee36feec-5949-4140-953b-1a1191615f6d",
+        "chatSessionId": "sess_e9a50c8d-0e98-48af-9d06-9443e88622b6",
+        "timestamp": 1793046223413
+      }
+    ],
+    "11. Checkpoint final — Verificar aplicación completa": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793024585580
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046829566
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046947319
+      },
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793047186791
+      }
+    ],
+    "2. Implementar módulo de validación": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793025460562
+      }
+    ],
+    "4. Implementar módulo de geocodificación": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793027980745
+      }
+    ],
+    "5. Implementar módulo de servicio meteorológico": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793028079700
+      }
+    ],
+    "7. Implementar módulo de UI": [
+      {
+        "executionId": "8e6f57ed-d60b-4d75-8257-7c2981bb6cdd",
+        "chatSessionId": "sess_565dd13b-6b71-4470-b87f-82574ce0bd76",
+        "timestamp": 1793029861505
+      }
+    ],
+    "10. Estilos CSS y pulido final de la UI": [
+      {
+        "executionId": "ee36feec-5949-4140-953b-1a1191615f6d",
+        "chatSessionId": "sess_e9a50c8d-0e98-48af-9d06-9443e88622b6",
+        "timestamp": 1793046223571
+      }
+    ],
+    "8. Implementar controlador principal": [
+      {
+        "executionId": "d84d265c-26ed-40b7-9931-145900f8997d",
+        "chatSessionId": "sess_52946c85-dbda-41d1-9960-b6897f962807",
+        "timestamp": 1793046944542
+      }
+    ]
+  }
+}
